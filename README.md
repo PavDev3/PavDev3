@@ -4,7 +4,8 @@
 <img src="Banner">
 
 
-[![Twitter]([https://img.shields.io/twitter/url?style=social&url=HeraDev10)]
+## Social Network
+[![Twitter]
 
 ## Sobre mi
 
