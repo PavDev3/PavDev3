@@ -3,7 +3,7 @@
 </div>
 <img src="Banner">
 
-[![YouTube Channel Subscribers]()]
+
 [![GitHub followers](https://img.shields.io/twitter/url?style=social&url=HeraDev10)]()
 
 ## Sobre mi
