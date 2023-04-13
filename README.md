@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/pablo-n-1a4a3669/">Pablo</a> 👋</h1>
+<h1 align="center">Hola, I'm <a href="https://www.linkedin.com/in/pablo-n-1a4a3669/">Pablo</a> 👋</h1>
 </div>
 <img src="Banner">
 
@@ -11,7 +11,7 @@
 
 ## Sobre mi
 
-//Todo
+I am an enthusiastic and motivated individual seeking an entry-level Jr Android Developer position. I have a strong interest in mobile app development and have completed several courses and personal projects to further my knowledge and skills. I am eager to apply my theoretical and practical understanding to real-world projects and be a part of a team that is dedicated to creating innovative solutions. I am confident that with my drive, passion, and quick learning ability, I can quickly become a valuable asset to your company.
 
 <br>
 
