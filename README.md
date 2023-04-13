@@ -4,7 +4,7 @@
 <img src="Banner">
 
 
-[![GitHub followers]([https://img.shields.io/twitter/url?style=social&url=HeraDev10)](https://img.shields.io/twitter/follow/HeraDev10?style=social)]()
+[![Twitter]([https://img.shields.io/twitter/url?style=social&url=HeraDev10)]
 
 ## Sobre mi
 
