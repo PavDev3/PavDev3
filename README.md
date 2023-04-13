@@ -7,6 +7,7 @@
 ## Social Network
 [![Twitter follow](https://img.shields.io/twitter/follow/HeraDev10?style=social)](https://twitter.com/HeraDev10)
 [![GitHub followers](https://img.shields.io/github/followers/PavDev3?style=social)](https://github.com/PavDev3)
+[![Linkedin follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-n-1a4a3669)
 
 
 ## Sobre mi
