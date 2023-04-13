@@ -5,7 +5,7 @@
 
 
 ## Social Network
-[![Twitter]https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FHeraDev10
+[![Twitter follow](https://img.shields.io/twitter/follow/HeraDev10?style=social)](https://twitter.com/HeraDev10)
 
 ## Sobre mi
 
