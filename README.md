@@ -6,6 +6,8 @@
 
 ## Social Network
 [![Twitter follow](https://img.shields.io/twitter/follow/HeraDev10?style=social)](https://twitter.com/HeraDev10)
+[![GitHub followers](https://img.shields.io/github/followers/PavDev3?style=social)](https://github.com/PavDev3)
+
 
 ## Sobre mi
 
