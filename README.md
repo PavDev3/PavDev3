@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi!, I'm <a href="https://www.linkedin.com/in/pablo-n-1a4a3669/">Pablo</a> 👋</h1>
 </div>
-<img src="https://imgur.com/a/mGGQ3OL">
+<img src="https://i.imgur.com/fY9aouP.png">
 
 
 ## Social Network
