@@ -10,9 +10,20 @@
 [![Linkedin follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-n-1a4a3669)
 
 
-## Sobre mi
+## About Me
 
-I am an enthusiastic and motivated individual seeking an entry-level Jr Android Developer position. I have a strong interest in mobile app development and have completed several courses and personal projects to further my knowledge and skills. I am eager to apply my theoretical and practical understanding to real-world projects and be a part of a team that is dedicated to creating innovative solutions. I am confident that with my drive, passion, and quick learning ability, I can quickly become a valuable asset to your company.
+I am an enthusiastic and motivated individual seeking an entry-level Jr JavaScript Developer position. I have a strong interest in web development and have completed several courses and personal projects to further my knowledge and skills. I am eager to apply my theoretical and practical understanding to real-world projects and be a part of a team that is dedicated to creating innovative solutions. I am confident that with my drive, passion, and quick learning ability, I can quickly become a valuable asset to your company.
+
+Here are some of my skills and experience:
+
+Proficient in JavaScript, React, Redux, and other JavaScript libraries
+Experience with HTML, CSS, and Git
+Ability to work independently and as part of a team
+Excellent problem-solving and debugging skills
+Strong attention to detail
+I am a quick learner and I am always eager to take on new challenges. I am confident that I have the skills and experience necessary to be successful in this role.
+
+I am available for an interview at your earliest convenience. Thank you for your time and consideration.
 
 <br>
 
