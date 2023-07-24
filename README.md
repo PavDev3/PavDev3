@@ -16,14 +16,12 @@ I am an enthusiastic and motivated individual seeking an entry-level Jr JavaScri
 
 Here are some of my skills and experience:
 
-Proficient in JavaScript, React, Redux, and other JavaScript libraries
+Proficient in JavaScript, React and other JavaScript libraries
 Experience with HTML, CSS, and Git
 Ability to work independently and as part of a team
 Excellent problem-solving and debugging skills
 Strong attention to detail
-I am a quick learner and I am always eager to take on new challenges. I am confident that I have the skills and experience necessary to be successful in this role.
-
-I am available for an interview at your earliest convenience. Thank you for your time and consideration.
+I am always eager to take on new challenges. Confident that I have the skills and experience necessary to be successful in this role.
 
 <br>
 
