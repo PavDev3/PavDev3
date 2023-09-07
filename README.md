@@ -12,7 +12,7 @@
 
 ## About Me
 
-I am an enthusiastic and motivated individual seeking an entry-level Jr JavaScript Developer position. I have a strong interest in web development and have completed several courses and personal projects to further my knowledge and skills. I am eager to apply my theoretical and practical understanding to real-world projects and be a part of a team that is dedicated to creating innovative solutions. I am confident that with my drive, passion, and quick learning ability, I can quickly become a valuable asset to your company.
+I am an enthusiastic and motivated individual seeking an entry-level Jr JavaScript Developer position or React. I have a strong interest in web development and have completed several courses and personal projects to further my knowledge and skills. I am eager to apply my theoretical and practical understanding to real-world projects and be a part of a team that is dedicated to creating innovative solutions. I am confident that with my drive, passion, and quick learning ability, I can quickly become a valuable asset to your company.
 
 Here are some of my skills and experience:
 
