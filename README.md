@@ -32,7 +32,7 @@ I am always eager to take on new challenges. Confident that I have the skills an
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/PabDev3">
+<a href="https://github.com/PavDev3">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PavDev3&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PavDev3&layout=compact&langs_count=8&theme=algolia"/>
 </a>
